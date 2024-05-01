@@ -1,4 +1,4 @@
-# docker: homer
+# docker: homer (for portainer stack editor)
 
 Homepage of [Homer](https://github.com/bastienwirtz/homer)
 
@@ -15,3 +15,7 @@ BASE_DIR=/foo/docker
 BINDS=/binds
 ```
 
+Edit your homer config here:
+```
+${BASE_DIR}/${BINDS}/binds/config.yml
+```
