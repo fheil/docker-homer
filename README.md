@@ -1,5 +1,6 @@
 # docker: homer
-Docker image for my personal settings
+
+[Homer(]https://github.com/bastienwirtz/homer)
 
 The docker-compose.yml is prepared to be used with [portainer.io](https://www.portainer.io) Stack-Editor.
 
