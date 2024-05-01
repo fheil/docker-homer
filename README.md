@@ -1,6 +1,6 @@
 # docker: homer
 
-[Homer(]https://github.com/bastienwirtz/homer)
+[Homer](https://github.com/bastienwirtz/homer)
 
 The docker-compose.yml is prepared to be used with [portainer.io](https://www.portainer.io) Stack-Editor.
 
