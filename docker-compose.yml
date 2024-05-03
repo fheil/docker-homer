@@ -19,4 +19,5 @@ services:
     #environment:
     #  - UID=1000
     #  - GID=1000
+    #  - INIT_ASSETS=1 # default
     restart: unless-stopped
