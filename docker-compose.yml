@@ -5,7 +5,7 @@
 #  ${BINDS}
 #  ${WEB_PORT}
 ###
-version: "2"
+#version: "2"
 services:
   homer:
     image: b4bz/homer
